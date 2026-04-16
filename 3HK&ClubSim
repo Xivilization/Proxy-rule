@@ -1,11 +1,10 @@
-// 3HK (包含 DIY 储值卡和 3Care 业务)
+# 3HK(包含 DIY 储值卡和3Care业务)
 HOST-SUFFIX,three.com.hk,3HK
 HOST-SUFFIX,3care.com.hk,3HK
 HOST-SUFFIX,3mall.com.hk,3HK
 HOST-SUFFIX,3supreme.com.hk,3HK
 HOST-KEYWORD,3hk,3HK
-
-// Club Sim (依托 CSL 网络和 The Club 账号生态)
+# ClubSim(依托CSL网络和TheClub账号生态)
 HOST-SUFFIX,clubsim.com.hk,ClubSim
 HOST-SUFFIX,theclub.com.hk,ClubSim
 HOST-SUFFIX,hkcsl.com,ClubSim
