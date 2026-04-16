@@ -1,0 +1,18 @@
+# > Proton (香港)
+HOST-SUFFIX,proton.me,DailyHK
+HOST-SUFFIX,protonmail.com,DailyHK
+HOST-SUFFIX,pm.me,DailyHK
+HOST-SUFFIX,protonmail.ch,DailyHK
+HOST-SUFFIX,protonstatus.com,DailyHK
+HOST-SUFFIX,protonvpn.com,DailyHK
+
+# > Yahoo (美国)
+HOST-SUFFIX,yahoo.com,DailyUS
+HOST-SUFFIX,yimg.com,DailyUS
+HOST-SUFFIX,yahooapis.com,DailyUS
+HOST-SUFFIX,yahoodns.net,DailyUS
+
+# > AOL (美国)
+HOST-SUFFIX,aol.com,DailyUS
+HOST-SUFFIX,aolcdn.com,DailyUS
+HOST-SUFFIX,aolnews.com,DailyUS
